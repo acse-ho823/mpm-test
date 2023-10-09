@@ -10,3 +10,7 @@ print(b)
 c = np.tan(np.pi/2)
 
 print(c)
+
+d = np.cos(np.pi/2)
+
+print(d)
