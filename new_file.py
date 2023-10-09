@@ -7,6 +7,10 @@ b = np.sin(np.pi/3)
 
 print(b)
 
-c = np.cos(np.pi/2)
+c = np.tan(np.pi/2)
 
 print(c)
+
+d = np.cos(np.pi/2)
+
+print(d)
